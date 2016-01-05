@@ -4,7 +4,7 @@ I'm  trying to compile and use RxCpp Reactive library in Android.
 
 DESCRIPTION
 ---------------------
-If You take the Solution it is and deploy to an Android phone (I have not tried with the emulator), everything work as expected.
+If You take the Solution as it is and deploy it to an Android phone (I have not tried with the emulator), everything work as expected.
 If You uncomment  some line of code the application crash.
 
 REPRODUCE PROBLEM

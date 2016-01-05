@@ -1,0 +1,36 @@
+!SESSION 2016-01-05 21:32:45.110 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-78dd0876-272d-4eb4-aba0-a733cf787e5f
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\.workspace javapkgsrv-78dd0876-272d-4eb4-aba0-a733cf787e5f
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-01-05 21:37:04.562
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2016-01-05 21:37:34.119 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-c09fcf2e-aeae-4b18-8627-bfc06afc9277
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\.workspace javapkgsrv-c09fcf2e-aeae-4b18-8627-bfc06afc9277
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-01-05 21:37:35.338
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-01-05 21:38:25.924
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2016-01-05 21:38:42.193 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-b0f685c1-5ec0-413c-a79b-7e0cb1ed86b2
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\.workspace javapkgsrv-b0f685c1-5ec0-413c-a79b-7e0cb1ed86b2
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-01-05 21:38:43.457
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-01-05 21:52:57.371
+!MESSAGE The workspace will exit with unsaved changes in this session.

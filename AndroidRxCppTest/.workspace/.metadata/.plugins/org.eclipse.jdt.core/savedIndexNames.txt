@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\.workspace\.metadata\.plugins\org.eclipse.jdt.core
+682235015.index
+3535548224.index
+611044998.index
+1008389204.index

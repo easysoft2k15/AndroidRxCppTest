@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{a357f088-57ed-4339-a843-b32664c291a5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\rxcpp\operators\rx-amb.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-buffer_count.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-buffer_time.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-buffer_time_count.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-combine_latest.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-concat.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-concat_map.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-connect_forever.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-distinct_until_changed.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-filter.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-finally.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-flat_map.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-group_by.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-lift.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-map.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-merge.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-multicast.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-observe_on.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-on_error_resume_next.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-pairwise.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-publish.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-reduce.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-ref_count.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-repeat.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-replay.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-retry.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-scan.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-skip.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-skip_until.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-start_with.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-subscribe.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-subscribe_on.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-switch_on_next.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-take.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-take_until.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-tap.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-window.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-window_time.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-window_time_count.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\operators\rx-zip.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-connectable_observable.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-coordination.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-grouped_observable.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-includes.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-notification.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-observable.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-observer.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-operators.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-predef.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-scheduler.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-sources.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-subjects.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-subscriber.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-subscription.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-test.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-trace.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx-util.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\rx.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\schedulers\rx-currentthread.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\schedulers\rx-eventloop.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\schedulers\rx-immediate.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\schedulers\rx-newthread.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\schedulers\rx-runloop.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\schedulers\rx-sameworker.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\schedulers\rx-test.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\schedulers\rx-virtualtime.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\sources\rx-create.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\sources\rx-defer.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\sources\rx-error.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\sources\rx-interval.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\sources\rx-iterate.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\sources\rx-never.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\sources\rx-range.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\sources\rx-scope.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\sources\rx-timer.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\subjects\rx-behavior.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\subjects\rx-replaysubject.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\subjects\rx-subject.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\subjects\rx-synchronize.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\rxcpp\test.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\rxcpp\test.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

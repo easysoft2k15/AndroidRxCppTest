@@ -1,0 +1,14 @@
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Android1.apk.recipe
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Android1.apk.recipe.merged
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Package\libs\x86\gdbserver
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Package\libs\x86\librxcpp.so
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Package\libs\x86\libgnustl_static.a
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Package\res\values\strings.xml
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Package\src\com\Android1\Android1.java
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Package\src\com\Android1\rxcppLib.java
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Package\AndroidManifest.xml
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Package\project.properties
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Package\build.xml
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Android1.apk
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\x86\Debug\Android1.lastsuccessfuldeploy
+C:\Documenti\GITHUB\AndroidRxCppTest\AndroidRxCppTest\Android1\x86\Debug\FileStringReplace.incremental

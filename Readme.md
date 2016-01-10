@@ -1,4 +1,4 @@
-PURPOSES
+PURPOSE
 -------------------
 Compile and use RxCpp Reactive library in Android using Visual Studio 2015 Update 1.
 
@@ -30,6 +30,7 @@ CREDIT GOES ALSO TO:
 CONTRIBUTIONS
 ----------------
 Contributions are welcomed. 
+
 The main idea is to to port the RxCpp original examples to android as well as Visual Studio project as reference for further "production ready" project. 
 
 

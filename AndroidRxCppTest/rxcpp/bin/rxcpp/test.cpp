@@ -1,26 +1,28 @@
+
+//Do not remove this!
+//See this:
+//https://github.com/Reactive-Extensions/RxCpp/issues/184
+//--------------------------------------------------------------------
+#define RXCPP_ON_IOS
+
 #include "rx.hpp"
 #include "jni.h"
 
 extern "C"
 {
-	JNIEXPORT int JNICALL Java_com_AndroidRxcpp_rxcppLib_test2(JNIEnv * env, jobject obj)
+	//Function to be called from Java
+	//---------------------------------------
+	JNIEXPORT int JNICALL Java_com_Android1_rxcppLib_test(JNIEnv * env, jobject obj)
 	{
-		return 4;
-	}
+		int res = 0;
 
-	JNIEXPORT int JNICALL test(JNIEnv * env, jobject obj)
-	{
 		auto ints = rxcpp::observable<>::from<int>(1, 2, 3, 4);
 
-		//UNCOMMENT THIS WILL CRASH THE APPLICATION!!
-		//PROBABLY DUE ANDROID NOT BEING ABLE TO LOAD THE LIBRxCppAndroid.SO LIBRARY
-		//-----------------------------------------------------------------------------------------------
-		//ints.subscribe([](int key)
-		//{
-		//	auto a = key;
-		//	a = 10;
-		//});
+		ints.subscribe([&](int key)
+		{
+			res = key;
+		});
 
-		return 0;
+		return res;
 	}
 }

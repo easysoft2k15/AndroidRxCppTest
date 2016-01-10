@@ -243,9 +243,6 @@
     <ClInclude Include="src\rxcpp\subjects\rx-synchronize.hpp">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="src\rxcpp\test.hpp">
-      <Filter>src</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\rxcpp\test.cpp">

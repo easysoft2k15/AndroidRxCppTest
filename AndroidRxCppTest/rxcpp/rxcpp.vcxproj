@@ -114,7 +114,6 @@
     <ClInclude Include="src\rxcpp\subjects\rx-replaysubject.hpp" />
     <ClInclude Include="src\rxcpp\subjects\rx-subject.hpp" />
     <ClInclude Include="src\rxcpp\subjects\rx-synchronize.hpp" />
-    <ClInclude Include="src\rxcpp\test.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\rxcpp\test.cpp" />

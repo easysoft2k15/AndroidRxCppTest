@@ -15,7 +15,7 @@ public class Android1 extends Activity
 
 		//Use Rxcpp!!
 		//---------------
-		int intFromCpp=rxcppLib.test2();
+		int intFromCpp=rxcppLib.test();
 
         /* Create a TextView and set its text to "Hello world" */
         TextView  tv = new TextView(this);

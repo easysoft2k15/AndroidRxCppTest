@@ -7,5 +7,5 @@ public class rxcppLib
          System.loadLibrary("rxcpp"); 
      } 
  
-     public static native int test2(); 
+     public static native int test(); 
 }

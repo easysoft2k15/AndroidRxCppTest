@@ -33,4 +33,9 @@ Contributions are welcomed.
 
 The main idea is to to port the RxCpp original examples to android as well as Visual Studio project as reference for further "production ready" project. 
 
+OPEN PROBLEMS
+----------------
+1) When You deploy with F5 from Visual Studio to try to debug application, GDB debug crash.
+In anyone as any idea why please advice.
+
 
